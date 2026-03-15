@@ -54,6 +54,5 @@ data-warehouse-project/
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 🌟 About Me
-Hi there! I'm Baraa Khatib Salkini, also known as Data With Baraa. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm Tanushree. I’m an IT professional and I love working with data and i find it enjoyable and engaging!
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
